@@ -1,0 +1,15 @@
+/*main*/
+body{
+    font-size: 25px;
+}
+
+/* Header section*/
+
+#header{
+    font-family: 'Rochester', 'cursive', "san serif";
+    color: white;
+}
+
+#brand{
+    font-size: 35px;
+}
